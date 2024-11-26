@@ -20,4 +20,10 @@ class TheViewModel extends ChangeNotifier{
     notifyListeners();
   }
 
+  void doProcess(){
+    _theModel.doProcess();
+    notifyListeners();
+  }
+
+
 }

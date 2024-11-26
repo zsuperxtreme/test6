@@ -33,7 +33,7 @@ class MyHomePage extends StatelessWidget{
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: theViewModel.fetchFirestore,
+        onPressed: theViewModel.doProcess,
         tooltip: 'Increment',
         child: const Icon(Icons.add),
       ), // This trailing comma makes auto-formatting nicer for build methods.
