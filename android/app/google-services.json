@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511172605197",
+    "project_id": "upm-research",
+    "storage_bucket": "upm-research.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511172605197:android:ed7054d81bc91cb63aac44",
+        "android_client_info": {
+          "package_name": "com.zainal.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBooXS4ip8zjK-zJMmAv_f6XXZogjayKeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
